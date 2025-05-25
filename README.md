@@ -39,3 +39,18 @@ This project analyzes over **1,000 customer reviews** for British Airways, scrap
 2. Install dependencies:
    ```bash
    pip install pandas beautifulsoup4 vaderSentiment wordcloud matplotlib seaborn
+
+
+
+---
+
+## Author
+
+**Mark-Daniels Tamakloe**  
+- MSc Computer Science – Washington University in St. Louis
+- MSc Mathematical Sciences – East Tennessee State University
+  
+[LinkedIn](https://www.linkedin.com/in/mark-daniels-tamakloe-934785a9)
+
+
+---
