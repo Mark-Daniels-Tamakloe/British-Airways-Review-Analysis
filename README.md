@@ -54,3 +54,7 @@ This project analyzes over **1,000 customer reviews** for British Airways, scrap
 
 
 ---
+
+## 🔗 Acknowledgement
+
+This project was completed as part of the [British Airways Data Science Virtual Experience](https://www.theforage.com/simulations/british-airways/data-science-yqoz) on Forage.
